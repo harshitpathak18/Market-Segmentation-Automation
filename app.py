@@ -16,7 +16,7 @@ from sklearn.metrics import silhouette_score
 from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder
 
 # Setting GenAI Configuration
-genai.configure(api_key='AIzaSyBPZ15TKL6gPbi8F_2aIeGSRwnSfk4BL_k')
+genai.configure(api_key='api_key')
 
 
 # Creating a Streamlit App
