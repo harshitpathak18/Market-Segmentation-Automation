@@ -33,8 +33,9 @@ This project focuses on **Automated Market Segmentation**, aiming to streamline 
 4. **Profiling Segments**: Generate detailed segment profiles using AI and visualize the clusters.
 5. **Download Reports**: Export the segmented data and profiles for further analysis.
 
+
 ## **Demo**
-[Include a link to a video demo or screenshots of the Streamlit app in action.]
+[https://www.linkedin.com/posts/harshitpathak18_python-segmentation-marketanalysis-activity-7228770119911358464-hypV?utm_source=share&utm_medium=member_desktop]
 
 ## **Technical Details**
 
