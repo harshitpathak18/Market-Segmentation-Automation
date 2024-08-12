@@ -16,7 +16,7 @@ from sklearn.metrics import silhouette_score
 from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder
 
 # Setting GenAI Configuration
-genai.configure(api_key='api_key')
+genai.configure(api_key='AIzaSyBPZ15TKL6gPbi8F_2aIeGSRwnSfk4BL_k')
 
 
 # Creating a Streamlit App
@@ -96,11 +96,9 @@ class MarketSegmentation:
                         margin-bottom: 18px;
                         letter-spacing: 1px;
                         text-transform: uppercase;
-                        background: linear-gradient(180deg, hsla(34, 97%, 48%, 1) 0%, hsla(24, 45%, 98%, 1) 51%, hsla(88, 96%, 37%, 1) 100%);
-                        -webkit-background-clip: text;
-                        -webkit-text-fill-color: transparent;
                         font-size: 45px;
                         font-weight: 700;
+                        color:white;
                     }}
 
                     .custom-text {{
@@ -758,7 +756,7 @@ class MarketSegmentation:
         
         try:
             st.subheader(" ")
-            st.markdown("""<center><h1 style="color:#E7B0FF">Profiling Segments</h1></center>""", unsafe_allow_html=True)
+            st.markdown("""<center><h1 style="color:#FFDD00">Profiling Segments</h1></center>""", unsafe_allow_html=True)
         
             # Identifying categorical columns (including Cluster)
             categorical_columns = self.df.select_dtypes(include=['object']).columns.tolist()
