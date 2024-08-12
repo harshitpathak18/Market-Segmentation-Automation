@@ -4,6 +4,22 @@
 
 This project focuses on **Automated Market Segmentation**, aiming to streamline the process of identifying and profiling different customer segments within a dataset. By using machine learning and AI tools, this project provides a scalable solution for businesses to understand their market segments, enabling them to craft more targeted marketing strategies and improve customer experiences.
 
+
+## Screenshots
+<p align="center">
+  <img src="Screenshots/1.png" alt="Screenshot 1" width="600">
+  <img src="Screenshots/2.png" alt="Screenshot 2" width="600">
+  <img src="Screenshots/3.png" alt="Screenshot 3" width="600">
+  <img src="Screenshots/4.png" alt="Screenshot 4" width="600">
+  <img src="Screenshots/5.png" alt="Screenshot 5" width="600">
+  <img src="Screenshots/6.png" alt="Screenshot 6" width="600">
+  <img src="Screenshots/7.png" alt="Screenshot 7" width="600">
+  <img src="Screenshots/8.png" alt="Screenshot 8" width="600">
+  <img src="Screenshots/9.png" alt="Screenshot 9" width="600">
+  <img src="Screenshots/10.png" alt="Screenshot 10" width="600">
+  <img src="Screenshots/11.png" alt="Screenshot 11" width="600">
+</p>
+
 ## **Features**
 
 - **Data Cleaning & Preprocessing**:
