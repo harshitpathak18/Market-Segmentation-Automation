@@ -70,11 +70,6 @@ Link: https://www.linkedin.com/posts/harshitpathak18_python-segmentation-marketa
 - **Customization**: Provided extensive customization options in the Streamlit app to allow users to tailor the appearance and functionality to their needs.
 
 
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-
 ## **Acknowledgments**
 - Special thanks to the open-source community for providing the tools and libraries that made this project possible.
 - Inspired by real-world market segmentation challenges faced by small businesses.
