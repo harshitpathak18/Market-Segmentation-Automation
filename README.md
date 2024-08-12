@@ -50,7 +50,7 @@ This project focuses on **Automated Market Segmentation**, aiming to streamline 
 
 
 ## **Demo**
-[https://www.linkedin.com/posts/harshitpathak18_python-segmentation-marketanalysis-activity-7228770119911358464-hypV?utm_source=share&utm_medium=member_desktop]
+Link: https://www.linkedin.com/posts/harshitpathak18_python-segmentation-marketanalysis-activity-7228770119911358464-hypV?utm_source=share&utm_medium=member_desktop
 
 ## **Technical Details**
 
