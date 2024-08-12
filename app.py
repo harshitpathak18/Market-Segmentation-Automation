@@ -108,8 +108,31 @@ class MarketSegmentation:
                         font-size: 35px;
                         font-weight: bold;
                         text-align: center;
-                        color: #FF9933;
+                        color: #DCA2F5;
                     }}
+
+                    .st-emotion-cache-1erivf3{{
+                        color:white;
+                        font-size:16px;
+                        font-weight:bold;
+                        background: linear-gradient(90deg, hsla(236, 100%, 8%, 1) 0%, hsla(211, 100%, 28%, 1) 100%);
+                    }}
+
+                    .st-emotion-cache-19cfm8f{{
+                        color:white;
+                        font-size:16px;
+                        font-weight:bold;
+                        background: linear-gradient(90deg, hsla(236, 100%, 8%, 1) 0%, hsla(211, 100%, 28%, 1) 100%);
+                    }}
+
+                    .st-gj{{
+                        color: white;
+                        font-size: 14px;
+                        font-weight:bold;
+                        background:  linear-gradient(90deg, hsla(236, 100%, 8%, 1) 0%, hsla(211, 100%, 28%, 1) 100%);
+                    }}
+
+
                 </style>
                 """,
                 unsafe_allow_html=True
@@ -278,7 +301,7 @@ class MarketSegmentation:
         st.markdown("""<span class="custom-text">Data Cleaning</span>""", unsafe_allow_html=True)
             
         try:
-            st.markdown("""<h5 style='color:yellow'>1. Handling Null Data</h5>""", unsafe_allow_html=True)
+            st.markdown("""<h5 style='color:#D88DF8'>1. Handling Null Data</h5>""", unsafe_allow_html=True)
 
             if self.df.isnull().sum().sum() > 0:
                 # Get columns with null values
@@ -357,7 +380,7 @@ class MarketSegmentation:
                 st.info("No Null Values in the Data")
             
             # Handling Duplicate Data
-            st.markdown("""<h5 style="color:yellow">2. Handling Duplicate Data</h5>""", unsafe_allow_html=True)
+            st.markdown("""<h5 style="color:#D88DF8">2. Handling Duplicate Data</h5>""", unsafe_allow_html=True)
 
             if self.df.duplicated().sum() > 0:
                 drop_duplicates = st.checkbox("Drop Duplicate Rows")
@@ -735,7 +758,7 @@ class MarketSegmentation:
         
         try:
             st.subheader(" ")
-            st.markdown("""<center><h1 style="color:#F7F71E">Profiling Segments</h1></center>""", unsafe_allow_html=True)
+            st.markdown("""<center><h1 style="color:#E7B0FF">Profiling Segments</h1></center>""", unsafe_allow_html=True)
         
             # Identifying categorical columns (including Cluster)
             categorical_columns = self.df.select_dtypes(include=['object']).columns.tolist()
@@ -803,4 +826,3 @@ class MarketSegmentation:
 if __name__=="__main__":
     app = MarketSegmentation()
     app.main()
-    
