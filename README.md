@@ -7,16 +7,16 @@ This project focuses on **Automated Market Segmentation**, aiming to streamline 
 
 ## Screenshots
 <p align="center">
-  <img src="Screenshots/1.png" alt="Screenshot 1" width="800">
-  <img src="Screenshots/2.png" alt="Screenshot 2" width="800">
-  <img src="Screenshots/3.png" alt="Screenshot 3" width="800">
-  <img src="Screenshots/4.png" alt="Screenshot 4" width="800">
-  <img src="Screenshots/5.png" alt="Screenshot 5" width="800">
-  <img src="Screenshots/7.png" alt="Screenshot 7" width="800">
-  <img src="Screenshots/8.png" alt="Screenshot 8" width="800">
-  <img src="Screenshots/9.png" alt="Screenshot 9" width="800">
-  <img src="Screenshots/10.png" alt="Screenshot 10" width="800">
-  <img src="Screenshots/11.png" alt="Screenshot 11" width="800">
+  <img src="Screenshots/1.png" alt="Screenshot 1" width="1200">
+  <img src="Screenshots/2.png" alt="Screenshot 2" width="1200">
+  <img src="Screenshots/3.png" alt="Screenshot 3" width="1200">
+  <img src="Screenshots/4.png" alt="Screenshot 4" width="1200">
+  <img src="Screenshots/5.png" alt="Screenshot 5" width="1200">
+  <img src="Screenshots/7.png" alt="Screenshot 7" width="1200">
+  <img src="Screenshots/8.png" alt="Screenshot 8" width="1200">
+  <img src="Screenshots/9.png" alt="Screenshot 9" width="1200">
+  <img src="Screenshots/10.png" alt="Screenshot 10" width="1200">
+  <img src="Screenshots/11.png" alt="Screenshot 11" width="1200">
 </p>
 
 ## **Features**
